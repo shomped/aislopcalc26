@@ -15,6 +15,7 @@ fcalc.exe
 gcc fcalc.c -o fcalc
 ./fcalc
 ```
+You can also [download it as an executable.](https://github.com/shomped/aislopcalc26/releases/tag/v1.0.0)
 ##
 *note that this code was 100% written by a generative AI model and may have an unclear copyright status. use at your own risk.*
 
